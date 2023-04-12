@@ -12,9 +12,16 @@
         <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/activity_qibla.xml" value="0.17552083333333332" />
         <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/compass_qibla.xml" value="0.17552083333333332" />
         <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/fragment_blank.xml" value="0.16145833333333334" />
+        <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/fragment_desk.xml" value="0.22" />
         <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/fragment_maps.xml" value="0.16145833333333334" />
-        <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/fragment_setting.xml" value="0.12" />
+        <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/fragment_qibla.xml" value="0.17552083333333332" />
+        <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/fragment_setting.xml" value="0.22" />
+        <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/mosque_widget.xml" value="0.17552083333333332" />
+        <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/layout/new_app_widget.xml" value="0.17552083333333332" />
+        <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/menu/bottom_navbar.xml" value="0.17552083333333332" />
         <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/menu/maps_menu.xml" value="0.1" />
+        <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/menu/menu_map.xml" value="0.17447916666666666" />
+        <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/menu/menu_type.xml" value="0.17447916666666666" />
         <entry key="..\:/Tugas Kuliah/Semester 4/PPPB 2/MapsIslamicLite/app/src/main/res/xml/root_preferences.xml" value="0.17552083333333332" />
       </map>
     </option>
