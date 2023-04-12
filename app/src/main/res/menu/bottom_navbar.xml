@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/maps"
+        android:id="@+id/maps"
+        android:icon="@drawable/map_vec"/>
+    <item
+        android:title="@string/compass"
+        android:id="@+id/compass"
+        android:icon="@drawable/kiblat_vec"/>
+    <item
+        android:title="@string/settings"
+        android:id="@+id/setting"
+        android:icon="@drawable/setting_vec"/>
+</menu>
